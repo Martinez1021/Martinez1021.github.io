@@ -103,7 +103,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Florida Universitaria",
-      logo: require("./assets/images/Florida.jpg"),
+      logo: require("../../assets/images/Florida.jpg"),
       subHeader: "Grado Medio en Sistemas Microinformáticos y Redes",
       duration: "Septiembre 2022 - Junio 2024",
       desc: "Graduado con una nota media de 8,27"
